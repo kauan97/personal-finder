@@ -38,7 +38,6 @@ $ npx eslint .
 |-----------|-------------|
 | PORT | Port where the app will start |
 | MONGO_URL | Database address |
-| APP_SECRET | Hash to generate JWT token |
 
 ## III. Todo ##
  - Implement more feature to system
